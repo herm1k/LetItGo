@@ -130,4 +130,4 @@ The CSV report contains:
 
 ## License
 
-Add your preferred license before publishing, for example MIT.
+ MIT.
